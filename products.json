@@ -1,0 +1,47 @@
+[
+	{	
+		"id": 1,
+		"title": "Arroz Molinos Ala",
+		"description": "Paquete de arroz x500gr",
+		"price": 430,
+		"thumbnail": "https://molinosala.com.ar/wp-content/uploads/2023/04/2022-12-03-RENDER-FINAL_MA_GranoSelecto_LargoFino_Frente_1kilo_FLAT-e1680578350684-887x1024.png",
+		"code": 1001,
+		"stock": 206
+	},
+	{	
+		"id": 2,
+		"title": "Fideos Matarazzo",
+		"description": "Paquete de fideos tipo spaghetti x500gr",
+		"price": 500,
+		"thumbnail": "https://maxiconsumo.com/media/catalog/product/cache/8313a15b471f948db4d9d07d4a9f04a2/1/5/15061.jpg",
+		"code": 1002,
+		"stock": 130
+	},
+	{	
+		"id": 3,
+		"title": "Harina Cañuelas",
+		"description": "Harina de trigo tipo 000 x500gr",
+		"price": 615,
+		"thumbnail": "https://delimart.com.ar/user-content/f0639281-7b90-42db-a3ee-7f5d3ea96eb0.PNG",
+		"code": 1003,
+		"stock": 310
+	},
+	{	
+		"id": 4,
+		"title": "Aceite Natura",
+		"description": "Aceite de girasol x900ml",
+		"price": 712,
+		"thumbnail": "https://i0.wp.com/www.puertomarsupermercado.com/wp-content/uploads/2021/01/636492138903203764.jpg?fit=1800%2C2400&ssl=1",
+		"code": 1004,
+		"stock": 127
+	},
+	{	
+		"id": 5,
+		"title": "Galletitas Surtido Bagley",
+		"description": "Paquete de galletitas variadas x500gr",
+		"price": 800,
+		"thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/714210/Galletitas-Surtido-Bagley-X398g-1-892707.jpg?v=637956562210870000",
+		"code": 1005,
+		"stock": 310
+	}
+]
