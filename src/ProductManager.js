@@ -63,7 +63,7 @@ class ProductManager {
     }
 
     //-------------------------------------------------------------------------------------
-   async getProductById(id) {
+    async getProductById(id) {
 
         const products= await this.getProducts();
 

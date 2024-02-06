@@ -2,6 +2,7 @@ import ProductManager from "./ProductManager.js";
 import express from 'express';
 
 const app=express();
+const PORT = 8080
 
 app.use(express.json());
 app.use(express.urlencoded({extended:true}));
@@ -41,4 +42,4 @@ return res.send({product:product});
 
 });
 
-app.listen(8080, ()=> console.log("Servidor activo en el puerto 8080"));
+app.listen(PORT, ()=> console.log("Servidor activo en el puerto 8080"));
