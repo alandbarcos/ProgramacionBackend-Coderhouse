@@ -10,7 +10,7 @@ const products = new ProductManager('./products.json');
 
 //-------------------------------------------------------------------
 
-app.get('/products',async (req,res)=>{
+app.get('/products', async (req,res)=>{
 
 const limit= parseInt(req.query.limit);
 
